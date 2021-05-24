@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @12MHS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- I am interested in Web Development
+- 👋 Hi, I’m Meherab Samir
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me - mdrashel0054@gmail.com 
+- I am interested in Web Development.
 
 <!---
 12MHS/12MHS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
